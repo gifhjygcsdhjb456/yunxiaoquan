@@ -1,0 +1,7 @@
+{
+  "name": "blackList-get-all",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
